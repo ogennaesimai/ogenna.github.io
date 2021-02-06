@@ -1,7 +1,7 @@
 ### Universal Intelligence: A Definition of Machine Intelligence by Shane Legg and Marcus Hutter
 Minds & Machines (2007) 17:391–444
 
-Here is a [presentation ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/02052021_CSE_6369_HLAI_Presentation_Universal_Intelligence_Ogenna_Esimai.pdf) I gave of this paper on February 05, 2021
+## Here is a [presentation ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/02052021_CSE_6369_HLAI_Presentation_Universal_Intelligence_Ogenna_Esimai.pdf) I gave of this paper on February 05, 2021
 
 ## HW 2	CSE 6369-002 Special Topics Advanced Intelligent Systems Spring 2021  
 ## Due: February 05, 2021 11:59 pm

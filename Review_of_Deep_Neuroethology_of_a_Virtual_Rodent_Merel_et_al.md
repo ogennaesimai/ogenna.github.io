@@ -31,3 +31,24 @@ https://arxiv.org/abs/1911.09451
 
 MuJoCo. Advanced Physics Simulation. http://www.mujoco.org/index.html. Accessed February 26, 2021.
 
+
+
+-------------------
+###Review of “Common Sense, The Turing Test, and the Quest for Real AI”
+###-Problem To Be Solved:
+This book by author Levesque tries to solve the problem of getting a grasp on “Real AI”
+###-What is “Real AI?” It is Artificial Intelligence that focuses on common sense as opposed to learning from big data. Levesque describes common sense as being able to achieve predetermined goals in the face of deviations from routines that were used previously to achieve the same goals. This kind of AI was practiced by certain AI researchers that he lists, and they did so in the 1950’s. He also equates Real AI with the term Good Old-Fashioned AI (GOFAI).
+###-Why is This Book Important? It provides a personal view which makes for increased knowledge and understanding. Specifically, the author’s view emphasizes practical usefulness as an important aspect of “Real AI.” The book also discusses The Turing Test which we have discussed in this class.
+
+###-Good Points:
+The book has several good points. 
+
+Firstly, it clearly states the author’s opinion. There is not much ambiguity as to where he stands on the issues at hand. 
+
+Secondly, the author uses plenty of anecdotes that are effective in helping the reader understand more quickly the ideas the author conveys.
+
+###-Limitations:
+The paper is limited in the regard that as a test of intelligence, the WSC is not universal or general in the scope of the intelligence. Rather, it is primarily a test tied closely to linguistic and related intelligence. 
+
+###-Suggestions For Improvement:
+For improvement of the book, I would explore the reasons behind opposing views. This might serve to strengthen the author’s argument.

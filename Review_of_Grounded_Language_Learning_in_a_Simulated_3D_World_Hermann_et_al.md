@@ -35,6 +35,9 @@ Firstly, for improvement of the paper, I would explore having the agent perform 
 Secondly, in human-agent communication, other avenues of communication besides human language may be considered. Such avenues include images.
 
 Thirdly, in the scope of using human language for communicating between humans and agents, because human communication involves meaning that is contributed by differences in pronunciation of the same word, for example, the written instructions may be supplemented by sound to increase the ability convey meaning to a greater degree.
+
+Fourthly, regarding Figure 3, which deals with the finding that "Unsupervised learning via auxiliary prediction objectives facilitates
+word learning," I would explore changing the order in which RP: reward prediction, VR: value replay, LP: language prediction, and tAE: temporal autoencoder are used with the A3C agent to see if there is an effect on the performance / average reward per episode.
  
 ### Reference
 Grounded Language Learning in a Simulated 3D World. Karl Moritz Hermann & Felix Hill et al. 

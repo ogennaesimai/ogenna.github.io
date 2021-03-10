@@ -14,8 +14,7 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 
 
-[Common Sense, the Turing Test, and the Quest for Real AI ]
-(https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_Common_Sense_the_Turing_Test_and_the_Quest_for_Real_AI_Levesque.md)
+[Common Sense, the Turing Test, and the Quest for Real AI by Hector J. Levesque ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_Common_Sense_the_Turing_Test_and_the_Quest_for_Real_AI_Levesque.md)
 
 
 
@@ -23,5 +22,4 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 
 
-[How to grow a robot. Chapters 11-12 ]
-(https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_How_to_grow_a_robot_Chapters_11-12_Lee.md)
+[How to grow a robot. Chapters 11-12 by Mark Lee ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_How_to_grow_a_robot_Chapters_11-12_Lee.md)

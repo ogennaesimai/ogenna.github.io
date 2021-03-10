@@ -23,4 +23,5 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 
 
-
+[How to grow a robot. Chapters 11-12 ]
+(https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_How_to_grow_a_robot_Chapters_11-12_Lee.md)

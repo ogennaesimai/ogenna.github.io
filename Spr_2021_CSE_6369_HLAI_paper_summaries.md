@@ -27,4 +27,4 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 [World Models by David Ha and Jürgen Schmidhuber Nnaisense. https://worldmodels.github.io/ ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/World_Models_Ha_Nnaisense.md)
 
-
+[Attention is All You Need by Vaswani et al. https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Attention_is_All_You_Need_Vaswani_et_al.md)

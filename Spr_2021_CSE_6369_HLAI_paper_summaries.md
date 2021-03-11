@@ -32,3 +32,7 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 [The Society of Mind. Marvin Minsky. The Personalist Forum , Spring 1987, Vol. 3, No. 1, Mind-Body East and West
 (Spring 1987), pp. 19-32 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_The_Society_of_Mind_Minsky.md)
+
+
+
+[On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins and Sandra Blakeslee. Chapters 3-6 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/On_Intelligence_Hawkins_Blakeslee.md)

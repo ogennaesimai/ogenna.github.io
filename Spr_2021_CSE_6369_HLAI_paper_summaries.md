@@ -25,6 +25,6 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 [Intrinsic Motivation for Autonomous Mental Development. Oudeyer et al. 2007. IEEE Transactions on Evolutionary Computation, 11(2), pp. 265--286. http://www.pyoudeyer.com/ims.pdf ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_Intrinsic_Motivation_for_Autonomous_Mental_Development_Oudeyer_et_al.md)
 
-[World Models by David Ha and Jürgen Schmidhuber Nnaisense. https://worldmodels.github.io/ ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/World_Models_Ha_Nnaisense.md)
+[World Models by David Ha and Jürgen Schmidhuber Nnaisense. https://worldmodels.github.io/ ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_World_Models_Ha_Nnaisense.md)
 
-[Attention is All You Need by Vaswani et al. https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Attention_is_All_You_Need_Vaswani_et_al.md)
+[Attention is All You Need by Vaswani et al. https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_Attention_is_All_You_Need_Vaswani_et_al.md)

@@ -36,3 +36,7 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 
 [On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins and Sandra Blakeslee. Chapters 3-6 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/On_Intelligence_Hawkins_Blakeslee.md)
+
+
+
+[Developmental Robotics by Angelo Cangelosi and Matthew Schlesinger. Chapters 3 and 4 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Developmental_Robotics_Cangelosi_Schlesinger.md)

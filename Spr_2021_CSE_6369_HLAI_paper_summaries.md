@@ -40,3 +40,6 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 
 [Developmental Robotics by Angelo Cangelosi and Matthew Schlesinger. Chapters 3 and 4 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Developmental_Robotics_Cangelosi_Schlesinger.md)
+
+[Intrinsic Motivation for Autonomous Mental Development. Oudeyer et al. 2007. IEEE Transactions on Evolutionary Computation, 11(2), pp. 265--286 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Developmental_Robotics_Oudeyer_et_al.md)
+

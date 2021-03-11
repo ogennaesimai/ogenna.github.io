@@ -19,11 +19,11 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 [The Society of Mind. Marvin Minsky. The Personalist Forum , Spring 1987, Vol. 3, No. 1, Mind-Body East and West
 (Spring 1987), pp. 19-32 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_The_Society_of_Mind_Minsky.md)
 
-[On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins and Sandra Blakeslee. Chapters 3-6 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/On_Intelligence_Hawkins_Blakeslee.md)
+[On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines by Jeff Hawkins and Sandra Blakeslee. Chapters 3-6 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_On_Intelligence_Hawkins_Blakeslee.md)
 
-[Developmental Robotics by Angelo Cangelosi and Matthew Schlesinger. Chapters 3 and 4 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Developmental_Robotics_Cangelosi_Schlesinger.md)
+[Developmental Robotics by Angelo Cangelosi and Matthew Schlesinger. Chapters 3 and 4 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_Developmental_Robotics_Cangelosi_Schlesinger.md)
 
-[Intrinsic Motivation for Autonomous Mental Development. Oudeyer et al. 2007. IEEE Transactions on Evolutionary Computation, 11(2), pp. 265--286. http://www.pyoudeyer.com/ims.pdf ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Intrinsic_Motivation_for_Autonomous_Mental_Development_Oudeyer_et_al.md)
+[Intrinsic Motivation for Autonomous Mental Development. Oudeyer et al. 2007. IEEE Transactions on Evolutionary Computation, 11(2), pp. 265--286. http://www.pyoudeyer.com/ims.pdf ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_Intrinsic_Motivation_for_Autonomous_Mental_Development_Oudeyer_et_al.md)
 
 [World Models by David Ha and Jürgen Schmidhuber Nnaisense. https://worldmodels.github.io/ ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/World_Models_Ha_Nnaisense.md)
 

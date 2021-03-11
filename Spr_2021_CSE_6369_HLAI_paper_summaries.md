@@ -27,3 +27,8 @@ Minds & Machines (2007) 17:391–444 ](https://github.com/ogennaesimai/ogenna.gi
 
 
 [SEDRo: A Simulated Environment for Developmental Robotics. Pothula et al. https://arxiv.org/abs/2009.01810 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_SEDRo_A_Simulated_Environment_for_Developmental_Robotics_Pothula_et_al.md)
+
+
+
+[The Society of Mind. Marvin Minsky. The Personalist Forum , Spring 1987, Vol. 3, No. 1, Mind-Body East and West
+(Spring 1987), pp. 19-32 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Review_of_The_Society_of_Mind_Minsky.md)

@@ -29,6 +29,8 @@ Secondly, in human-agent communication, here caregiver-agent communication, it f
 
 Thirdly, for Fig. 4, due to the use of red and green colors side by side, this figure would be difficult to be seen and understood by individuals who have red-green color blindness.
 
+Fourthly, sensory input for SEDRo is comprised of touch, vision, acceleration,
+gravity, and proprioceptors. Nevertheless, there is evidence that suggests that unborn babies may be able to hear. Therefore, omitting sound in sensory input may omit a potentially important part of learning that occurs in the human fetus thereby limiting the learning of the SEDRo model.
 
 ### Suggestions For Improvement
 Firstly, for improvement of the paper, I would explore extending the age of the agent beyond 12 months. 
@@ -36,6 +38,8 @@ Firstly, for improvement of the paper, I would explore extending the age of the 
 Secondly, in caregiver-agent communication, I would explore an automated method of generating scenarios. This would have the advantage of being less time and effort intensive and provide a lot of data in a shorter amount of time. The current method is using principles of developmental psychology. Therefore, to maintain quality of the automated-generated scenarios, the automated method would still need to be set up in such a way that it follows the same principles of developmental psychology, also to be valid and meet the criteria used for the original scenarios.
 
 Thirdly, for Fig. 4, in order to improve the ease of seeing and understanding this figure by individuals who have red-green color blindness, I would use a different color scheme that does not involve using red and green colors side by side. For example, I might use red with a non-green color or use green with a non-red color or use an entirely different set of colors other than red and other than green.
+
+Fourthly, for sensory input for SEDRo I would also use sound. This would help the model be more like human babies and better model the learning that human babies undergo.
 
 ### Reference
 SEDRo: A Simulated Environment for Developmental Robotics. Aishwarya Pothula et al. https://arxiv.org/abs/2009.01810

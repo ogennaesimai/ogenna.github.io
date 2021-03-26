@@ -1,11 +1,11 @@
-### How to Grow a Robot: Developing Human-Friendly, Social Al Chapters 11 & 12
+### How to Grow a Robot: Developing Human-Friendly, Social Al; Chapters 11 & 12
 
 
 ## HW 7	CSE 6369-002 Special Topics Advanced Intelligent Systems Spring 2021  
 ## Due: Extended 11:59 pm
 ## Ogenna Esimai 
 
-# Review of “The Winograd Schema Challenge”
+# Review of “How to Grow a Robot: Developing Human-Friendly, Social Al; Chapters 11 & 12”
 ### Problem To Be Solved
 These book chapters by author Mark Lee try to solve the problem of what an adequate approach would be in order to build intelligent robots that think and behave like humans. The author notes that “engineering methods do not provide the right approach for building humanlike robots.” Why does he think this way? Although this concept is presented in an earlier part of the book, before these chapters, he is of the opinion that current Al and robotic technology are not as mentally flexible as people and do not think and behave like humans. He adds that there is not much evidence to show that this will change in the future. His solution is to focus on trying to achieve desirable behaviors as opposed to trying to accomplish specific tasks. The author mentions four ways through which humans show intelligence, namely, 1) behavior 2) flexible lines of reasoning 3) adaptive ability to cope with change and new experiences 4) general versatility.
 

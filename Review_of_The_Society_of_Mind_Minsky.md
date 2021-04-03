@@ -18,7 +18,8 @@ Firstly, their language is simple making it easier to follow than if the languag
 
 Secondly, the tone is almost conversational again aiding understanding of the author's points.
 
-Essential Chapters in the Book 
+... **Essential Chapters in the Book** ...
+
 1.3 The society of mind - In science, one can learn the most by studying what seems the least.
 
 1.4 The world of blocks - Amnesia of infancy. Forgetting we ever learned skills that are now second nature that they are considered common sense.

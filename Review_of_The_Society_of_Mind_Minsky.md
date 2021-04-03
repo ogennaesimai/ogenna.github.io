@@ -63,6 +63,6 @@ The Society of Mind.
 https://www.jstor.org/stable/pdf/20708493.pdf?casa_token=A67gABqp1HcAAAAA:thfI9FehgxaKKN70PF42QmUcH3EbMVd0sfeQvVAW9PPmnE0yEHZHDd_wlC-7zGdM-2AS3DZOF-P612E8N2RjIBiF5kPqDvb-a3lek3Z3WJ6ofhq5BQ 
 
 
-<sup>1</sup>On second thought, no pun intended, I thought it might be useful to specify which the essential chapters were and my notes on while reading.
+<sup>1</sup>On second thought, no pun intended, I thought it might be useful to specify which the essential chapters were and my notes on each while reading.
 
 

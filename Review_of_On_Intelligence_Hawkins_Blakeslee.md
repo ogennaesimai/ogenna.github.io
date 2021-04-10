@@ -29,13 +29,20 @@ Secondly, it mentions other view points different from those of the authors. Thi
 
  
 ### Limitations
-Firstly, they are limited to largely opinions of the author.
+Firstly, they are limited to largely opinions of the author. While experiments are described, they are anecdotal and informal as opposed to formal.
 
 
 ### Suggestions For Improvement
-None. 
+Although anecdotal and informal experiments are better than none, it may be helpful to document formal experiments that may support the authors' view points with the formal experiments being reproducible and/or repeatable.
 
 ### References
+J. Hawkins and S. Blakeslee , “The Human Brain,” in On Intelligence. New York, New York: Times Books, 2004, ch. 3, pp. 40-64.
+
+J. Hawkins and S. Blakeslee , “Memory,” in On Intelligence. New York, New York: Times Books, 2004, ch. 4, pp. 65-84.
+
+J. Hawkins and S. Blakeslee , “A New Framework of Intelligence,” in On Intelligence. New York, New York: Times Books, 2004, ch. 5, pp. 85-105.
+
+J. Hawkins and S. Blakeslee , “How the Cortex Works,” in On Intelligence. New York, New York: Times Books, 2004, ch. 6, pp. 106-176.
 
 
 

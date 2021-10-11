@@ -1,6 +1,9 @@
 Paper Summary
 --
 
+Augmented Reality/Virtual Reality (AR/VR)
+--
+
 [Reflecting on the Design Process for Virtual Reality Applications by A. G. Sutcliffe, C. Poullis, A. Gregoriades, I. Katsouri, A. Tzanavari & K. Herakleous
 International Journal of Human–Computer Interaction (2018) pp. 1-12](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Presentation_of_Reflecting_on_the_Design_Process_for_Virtual_Reality_Applications_Sutcliffe_et_al.md)  
   
@@ -11,3 +14,9 @@ The immediately following 2 papers were also reviewed for background for paper a
 [Heuristic evaluation of virtual reality applications. 
 Alistair Sutcliffe and Brian Gault. Interacting with Computers 16 (2004) pp. 831-849 ](https://github.com/ogennaesimai/ogenna.github.io/blob/main/Background_paper_Heuristic_evaluation_of_virtual_reality_applications_Sutcliffe_et_al.md)
 
+Virtual Presentations by Dr. Maher Abujelala and Dr. Sanika Doolani During Class on September 30, 2021 - Written Essay on These Presentations
+
+Computer Vision (CV)
+--
+
+Coming soon in the not too distant future

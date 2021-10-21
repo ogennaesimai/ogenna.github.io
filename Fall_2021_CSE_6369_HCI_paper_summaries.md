@@ -20,7 +20,16 @@ Virtual Presentations by Dr. Maher Abujelala and Dr. Sanika Doolani During Class
 [Here is my essay](https://github.com/ogennaesimai/ogenna.github.io/blob/main/09302021_CSE_6369_Guest_Lecturer_presentations_Submitter_Ogenna_Esimai.pdf) on these presentations
 
 ---
+Virtual Presentation by Dr. Konstantinos Tsiakas During Class on October 12, 2021 
 
+[Here is my essay](https://github.com/ogennaesimai/ogenna.github.io/blob/main/10122021_CSE_6369_Guest_Lecturer_presentation_Submitter_Ogenna_Esimai.pdf) on this presentation
+
+---
+Virtual Presentation by Dr. Michalis Papakostas During Class on October 14, 2021 
+
+[Here is my essay](https://github.com/ogennaesimai/ogenna.github.io/blob/main/10142021_CSE_6369_Guest_Lecturer_presentation_Submitter_Ogenna_Esimai.pdf) on this presentation
+
+---
 Computer Vision (CV)
 --
 

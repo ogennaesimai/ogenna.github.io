@@ -24,4 +24,12 @@ Virtual Presentations by Dr. Maher Abujelala and Dr. Sanika Doolani During Class
 Computer Vision (CV)
 --
 
-Coming soon in the not too distant future
+[ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky, Ilya Sutskever & Geoffrey E. Hinton. NIPS (2012)](https://github.com/ogennaesimai/ogenna.github.io/blob/main/10202021_CSE_6369_CV_Presentation_ImageNet_Classification_with_Deep_Convolutional_Neural_Networks_Ogenna_Esimai.pdf)
+
+---
+
+Natural Language Processing (NLP)
+--
+
+
+Coming soon in the not too distant future. Stay tuned.
